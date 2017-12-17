@@ -19,11 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D9F15BA4-CA35-41C4-BCD2-ED50A3345E82}</ProjectGuid>
+    <ProjectGuid>{9122870D-C490-44DF-A7C5-78D89EEC95C8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>sort</RootNamespace>
+    <RootNamespace>bubble_sort</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>quick_sort</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
